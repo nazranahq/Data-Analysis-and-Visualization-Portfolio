@@ -57,19 +57,19 @@ The goal was to consolidate multiple CSV files into a unified data model, clean 
 - **Average Shipping Price per Item**  
   ```DAX
   DIVIDE(SUM('Sales Data'[Shipping Amount]), SUM('Sales Data'[Order Quantity]), BLANK())
-````
+  ````
 
-* **Year**
+- **Year**
 
   ```DAX
   =FORMAT([Order Date], "yyyy")
   ```
-* **Quarter**
+- **Quarter**
 
   ```DAX
   =CONCATENATE("Qtr", INT((MONTH([Order Date]) + 2) / 3))
   ```
-* **Month (Abbrev.)**
+- **Month (Abbrev.)**
 
   ```DAX
   =FORMAT([Order Date], "MMM")
@@ -125,5 +125,3 @@ Include a screenshot of the final dashboard here:
 * Interactive dashboards can be built entirely in Excel without external BI tools.
 
 This task highlights Excel’s capability to handle **end-to-end data analytics**—from ingestion to interactive visualization—making it a powerful tool for business intelligence projects.
-
-```
