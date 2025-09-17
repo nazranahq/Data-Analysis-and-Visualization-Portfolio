@@ -1,4 +1,4 @@
-# 🧮 Data Preparation and Analysis with Power Query, Power Pivot & DAX (Excel)
+# 🧮 Data Preparation and Analysis with Power Query, Power Pivot & DAX
 
 This project demonstrates the **end-to-end process of data preparation, modeling, and analysis** in Excel using **Power Query**, **Power Pivot**, and **DAX**.  
 The goal was to consolidate and analyze **customer, sales, and product data** stored in different formats and across multiple sources.

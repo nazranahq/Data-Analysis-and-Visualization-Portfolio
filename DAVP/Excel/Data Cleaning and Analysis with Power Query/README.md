@@ -1,4 +1,4 @@
-# 🧹 Data Cleaning and Analysis with Power Query (Excel)
+# 🧹 Data Cleaning and Analysis with Power Query
 
 This Excel project demonstrates how **Power Query** was used to transform a raw transactional dataset into a clean, structured format suitable for business analysis. It includes Power Query operations like:
 - Removing duplicates
