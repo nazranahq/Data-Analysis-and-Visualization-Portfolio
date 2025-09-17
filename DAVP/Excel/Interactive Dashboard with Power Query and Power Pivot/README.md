@@ -57,19 +57,19 @@ The goal was to consolidate multiple CSV files into a unified data model, clean 
 - **Average Shipping Price per Item**  
   ```DAX
   DIVIDE(SUM('Sales Data'[Shipping Amount]), SUM('Sales Data'[Order Quantity]), BLANK())
-````
+  ````
 
-* **Year**
+- **Year**
 
   ```DAX
   =FORMAT([Order Date], "yyyy")
   ```
-* **Quarter**
+- **Quarter**
 
   ```DAX
   =CONCATENATE("Qtr", INT((MONTH([Order Date]) + 2) / 3))
   ```
-* **Month (Abbrev.)**
+- **Month (Abbrev.)**
 
   ```DAX
   =FORMAT([Order Date], "MMM")
