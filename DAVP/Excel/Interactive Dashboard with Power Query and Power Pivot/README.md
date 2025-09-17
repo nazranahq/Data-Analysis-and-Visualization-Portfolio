@@ -125,5 +125,3 @@ Include a screenshot of the final dashboard here:
 * Interactive dashboards can be built entirely in Excel without external BI tools.
 
 This task highlights Excel’s capability to handle **end-to-end data analytics**—from ingestion to interactive visualization—making it a powerful tool for business intelligence projects.
-
-```
