@@ -1,4 +1,4 @@
-# 📈 Amazon Sales & Prime Movies Dashboard (Power BI)
+# 📈 Amazon Sales & Prime Movies Dashboard
 
 This **Power BI project** delivers a complete analysis of Amazon product sales and Prime movie performance.  
 By integrating data from pre-processed Excel sources, the dashboards track **sales trends, product popularity, customer reviews, and viewing patterns** across categories and time periods.  
