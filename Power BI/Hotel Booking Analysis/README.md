@@ -120,7 +120,7 @@ This project consolidates multi-source booking data into a single interactive pl
 
 ## 🖼️ Dashboard View
 ![Hotel Booking Dashboard](Images/overview-dashboard.PNG)
-![KPI Summary Dashboard](Images/kpi-summary-dashboard.png)
+![KPI Summary Dashboard](Images/kpi-summary-dashboard.PNG)
 
 ---
 
