@@ -1,4 +1,3 @@
-````markdown
 # 🏨 Hotel Booking Analysis Dashboard 
 
 This **Power BI project** provides a deep analysis of hotel booking data to uncover insights on **room occupancy, booking trends, cancellations, revenue, and customer behavior**.  

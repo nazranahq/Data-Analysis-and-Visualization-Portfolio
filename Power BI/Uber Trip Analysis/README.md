@@ -1,4 +1,3 @@
-````markdown
 # 🚖 Uber Trip Analysis
 This **Power BI project** analyzes Uber trip data to reveal **booking trends, revenue insights, time-based patterns, and location behavior**.  
 The interactive dashboards enable **fleet optimization, pricing strategies, and improved customer experience** through rich KPIs and drill-through capabilities.
@@ -46,7 +45,7 @@ CALENDAR(
     MIN('Trip Details'[Pickup Date]),
     MAX('Trip Details'[Pickup Date])
 )
-````
+```
 
 * Linked `Trip Details[Pickup Date]` to `Calendar Table[Date]`.
 * Extracted **Day, Day Name, Hour** for time analysis.

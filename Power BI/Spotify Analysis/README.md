@@ -1,4 +1,3 @@
-````markdown
 # 🎶 Spotify Listening History Analysis
 This **Power BI project** analyzes personal Spotify listening history to uncover **music preferences, platform usage, and time-based trends**.  
 Through **dynamic DAX measures**, platform-specific dashboards, and visually rich KPIs, the solution provides insights into **favorite artists, albums, and tracks**, while comparing **year-over-year engagement** and **weekday vs. weekend listening behavior**.
@@ -44,7 +43,7 @@ Date Table = CALENDAR(
     MIN(spotify_history[Track Played Date]),
     MAX(spotify_history[Track Played Date])
 )
-````
+```
 
 * Added **Year**, **Day**, and a `Weekday_Weekend` flag:
 
