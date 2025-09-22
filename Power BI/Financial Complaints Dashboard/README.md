@@ -1,4 +1,4 @@
-# 💳 Financial Complaints Dashboard (Power BI)
+# 💳 Financial Complaints Dashboard
 
 This **Power BI project** analyzes financial consumer complaint data to uncover **trends in complaint volume, response timeliness, resolution types, and dispute rates**.  
 Stakeholders can explore complaint patterns by **issue, product, state, and time**, while evaluating the effectiveness of company responses.  
