@@ -1,11 +1,8 @@
 # Tableau Projects Portfolio
 
-The projects using **Tableau** form a comprehensive visualization initiative that explores diverse real-world datasets spanning e-commerce, sports, finance, customer behavior, and sustainable transportation.  
-The primary objective is to derive actionable insights by transforming raw data into **interactive and informative dashboards**.  
-Through hands-on experience with Tableau, five distinct dashboards were created—each addressing a unique domain.
+The projects using **Tableau** form a comprehensive visualization initiative that explores diverse real-world datasets spanning e-commerce, sports, finance, customer behavior, and sustainable transportation. The primary objective is to derive actionable insights by transforming raw data into **interactive and informative dashboards**. Through hands-on experience with Tableau, five distinct dashboards were created—each addressing a unique domain.
 
-This work involved the end-to-end process of **data connection, calculated field creation, advanced filtering, visual encoding, formatting, and dashboard composition**.  
-The outcome is a robust portfolio that showcases the power of data visualization in drawing insights across industries and domains.
+This work involved the end-to-end process of **data connection, calculated field creation, advanced filtering, visual encoding, formatting, and dashboard composition**. The outcome is a robust portfolio that showcases the power of data visualization in drawing insights across industries and domains.
 
 ## Projects
 
@@ -21,7 +18,7 @@ These projects illustrate proficiency in transforming raw data into actionable i
 ## Project Structure
 
 Each project folder contains:
-- The Tableau workbook (.twb or .twbx)
+- The Tableau workbook (.twbx)
 - Data sources used for analysis
 - A PDF document detailing the project, including:
     - Introduction
