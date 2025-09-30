@@ -30,7 +30,7 @@ Understanding **where, when, and why** complaints occur is essential to improve 
 
 ## 🚀 Implementation Steps
 1. **Data Import & Validation**  
-   - Loaded financial consumer complaints from a pre-processed ![CSV](Data/Financial%20Consumer%20Complaints.csv).
+   - Loaded financial consumer complaints from a pre-processed [CSV](./Data/Financial%20Consumer%20Complaints.csv).
    - Verified row counts for data integrity.  
    - Used *Column Quality, Distribution, and Profile* in Power Query to ensure **100% valid values** and **0% errors**.  
    - Converted `Date Received` and `Date Submitted` columns to **Date** type.
@@ -85,7 +85,7 @@ Understanding **where, when, and why** complaints occur is essential to improve 
 ---
 
 ## 🖼️ Dashboard View
-![Financial Complaints Dashboard](Image/financial-complaints-dashboard.png)
+![Financial Complaints Dashboard](./Image/financial-complaints-dashboard.PNG)
 
 ---
 
