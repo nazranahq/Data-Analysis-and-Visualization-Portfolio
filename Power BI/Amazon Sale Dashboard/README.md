@@ -31,7 +31,7 @@ This project consolidates those datasets to uncover insights on **seasonal sales
 
 ## 🚀 Implementation Steps
 1. **Data Import & Validation**  
-   - Loaded ![Amazon Combined Data](Data/Amazon_Combined_Data.xlsx) and ![Amazon Prime Movies Data](Data/Amazon%20Prime%20Movies.xlsx) from Excel files.  
+   - Loaded ![Amazon Combined Data](./Data/Amazon_Combined_Data.xlsx) ![Amazon Prime Movies Data](./Data/Amazon%20Prime%20Movies.xlsx) from Excel files.  
    - Verified integrity with *Column Quality*, *Distribution*, and *Profile*.  
    - Converted key fields (Order Date, Price, Reviews, Release Year) to correct data types.
 
@@ -82,8 +82,8 @@ This project consolidates those datasets to uncover insights on **seasonal sales
 ---
 
 ## 🖼️ Dashboard Views
-- ![Amazon Product Dashboard](Images/amazon-product-dashboard.png)  
-- ![Amazon Prime Movies Dashboard](Images/amazon-prime-dashboard.png)
+- ![Amazon Product Dashboard](./Images/amazon-product-dashboard.PNG)  
+- ![Amazon Prime Movies Dashboard](./Images/amazon-prime-dashboard.PNG)
 
 ---
 
